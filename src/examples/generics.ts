@@ -2,7 +2,10 @@
 
 /**
  * TypeScript generics are a powerful feature that allows you
- * to write flexible and reusable code by parameterizing types and functions. While generics may seem straightforward at first, they offer a world of possibilities for creating more robust and efficient software. In this article, we will explore some amazing tricks you can perform with TypeScript generics.
+ * to write flexible and reusable code by parameterizing types and functions.
+ * While generics may seem straightforward at first,
+ * they offer a world of possibilities for creating more robust and efficient software.
+ * In this article, we will explore some amazing tricks you can perform with TypeScript generics.
  */
 
 // 1. Generate a type from the function’s return type
