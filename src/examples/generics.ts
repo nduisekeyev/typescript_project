@@ -67,7 +67,7 @@ function processInput<isStringType>(input: isStringType): void {
 processInput('Hello, World!'); // Output: Input is a string: HELLO, WORLD!
 processInput(42);
 
-// 3. Mapped Types/Partial in TypeScript
+// 3. Mapped Types in TypeScript
 
 /**
  * Mapped types allow you to create new types based on existing ones
